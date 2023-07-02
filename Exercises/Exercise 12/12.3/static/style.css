@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+form {
+  display: flex;
+  justify-content: center;
+  border: 1.5px solid darkslategray;
+  border-radius: 10px;
+  background-color: lightgray;
+  width: fit-content;
+}
+table {
+  margin: 10px;
+}
+#right {
+  width: 100%;
+  margin-right: 10px;
+  display: flex;
+  justify-content: right;
+}
+button {
+  margin-top: 10px;
+}
+input {
+  width: 20vw;
+  padding: 5px;
+  margin: 10px;
+}
